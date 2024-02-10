@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-  "code-commenter": "https://github.com/christopherbWIX/test-reop.git#v1.0.0"
+  "code-commenter": "https://github.com/christopherbWIX/test-reop.git#main"
   },
   "author": "",
   "license": "ISC"
