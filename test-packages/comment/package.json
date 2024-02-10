@@ -2,13 +2,13 @@
   "name": "code-commenter",
   "version": "1.0.0",
   "description": "puts a string in a comment block",
-  "main": "index.js",
+  "main": "comment.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/christopherbWIX/test-reop/test-packages"
+    "url": "https://github.com/christopherbWIX/test-reop"
   },
   "author": "chris",
   "license": "ISC"
